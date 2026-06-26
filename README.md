@@ -1,1 +1,1 @@
-# Cek-email
+ini website untuk mengecek email kalian apakah sudah kuat atau belum dan website ini untuk mengecek password anda apakah sudah cukup kuat atau belum.jika terjadi bug bisa chat nomer admin:628131336963 ya
